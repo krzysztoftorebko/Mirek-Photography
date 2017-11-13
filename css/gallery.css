@@ -1,0 +1,9 @@
+body{
+	background: linear-gradient(black, #333,greenyellow); 
+}
+.gallery1,.gallery2,.gallery3 {
+    width: 30%;
+    margin: 1.5%;
+    padding: 0;
+    float: left;
+}

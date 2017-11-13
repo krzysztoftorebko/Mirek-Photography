@@ -1,0 +1,36 @@
+.container {
+	width: 1000px;
+
+}
+
+.friends {
+	background-color: #333;
+	margin-top: 20px;
+	height: 200px;
+	display: block;
+	padding: 30px 30px 30px 30px;
+	z-index: 0;
+}
+
+.friends img {
+	border-radius: 10%;
+	float: left;
+	margin-right: 20px;
+	z-index: 1;
+}
+
+#content {
+	width: 1000px;
+	border: 0px;
+	height: 100%;
+	margin-bottom:20px;
+}
+
+.Text {
+	width: 700px;
+	display: inline-block;
+	height: 100%;
+}
+body{
+	background: linear-gradient(black, #333,black); 
+}
